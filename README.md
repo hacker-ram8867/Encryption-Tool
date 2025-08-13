@@ -1,4 +1,4 @@
-# 🔐 Web Security Tool
+# 🔐 Encryption Tool
 
 A Python-based toolkit designed for **web security** tasks including **data encryption, PDF protection**, and various utility functions. Perfect for cybersecurity students, penetration testers, and security-conscious developers.
 
