@@ -15,15 +15,22 @@ A Python-based toolkit designed for **web security** tasks including **data encr
 
 ## 📁 Project Structure
 
-Web--security-tool/
-│
+|--Web--security-tool
+
 ├── pycache_/ # Compiled Python bytecode (auto-generated)
+
 ├── images/ # Screenshots and media
+
 ├── Rama@1234 # (Sensitive file – avoid sharing)
+
 ├── encryptor.py # Handles data encryption
+
 ├── main.py # Main controller script
+
 ├── pdf_encryptor.py # PDF encryption script
+
 ├── utils.py # Utility/helper functions
+
 └── README.md # Documentation
 
 yaml
